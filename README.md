@@ -1,1 +1,1 @@
-# -HexaMIPS-The-MIPS-Emulation-Marvel
+# HexaMIPS-The-MIPS-Emulation-Marvel
