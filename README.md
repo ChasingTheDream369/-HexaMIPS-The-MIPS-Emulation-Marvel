@@ -1,5 +1,3 @@
-# HexaMIPS-The-MIPS-Emulation-Marvel
-
 # HexaMIPS: The MIPS Emulation Marvel
 ![HexaMIPS Logo](insert_your_logo_image_url_here)
 
