@@ -27,15 +27,15 @@ To get started with HexaMIPS, follow these simple steps:
    ```
 2. Compile the code using your preferred C compiler.
 
-  ```
-  gcc hexamips.c -o hexamips
-  ```
+   ```
+   gcc hexamips.c -o hexamips
+   ```
 
 3. Run HexaMIPS with a MIPS instruction file.
 
-  ```
-  ./hexamips input.hex
-  ```
+   ```
+   ./hexamips input.hex
+   ```
 4. Explore the generated output and register values after execution.
 
 ## Example
