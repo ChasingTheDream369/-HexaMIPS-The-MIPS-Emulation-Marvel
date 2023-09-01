@@ -22,18 +22,18 @@ Welcome to HexaMIPS - your ultimate MIPS architecture emulator! This project aim
 To get started with HexaMIPS, follow these simple steps:
 
 1. Clone this repository to your local machine.
-   ```
+   ```shell
    git clone https://github.com/your-username/hexamips.git
    ```
 2. Compile the code using your preferred C compiler.
 
-   ```
+   ```shell
    gcc hexamips.c -o hexamips
    ```
 
 3. Run HexaMIPS with a MIPS instruction file.
 
-   ```
+   ```shell
    ./hexamips input.hex
    ```
 4. Explore the generated output and register values after execution.
@@ -42,7 +42,7 @@ To get started with HexaMIPS, follow these simple steps:
 
 Here's a quick example of using HexaMIPS:
 
-```
+```MIPS
 $ ./hexamips example.hex
 
 Program
