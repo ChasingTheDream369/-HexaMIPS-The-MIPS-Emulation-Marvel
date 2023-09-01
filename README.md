@@ -1,4 +1,4 @@
-# HexaMIPS: The MIPS Emulation Marvel
+ # HexaMIPS: The MIPS Emulation Marvel
 ![HexaMIPS Logo](insert_your_logo_image_url_here)
 
 Welcome to HexaMIPS - your ultimate MIPS architecture emulator! This project aims to emulate a small, simple subset of the MIPS architecture, making it a valuable resource for understanding and experimenting with MIPS instructions.
@@ -28,13 +28,13 @@ To get started with HexaMIPS, follow these simple steps:
 2. Compile the code using your preferred C compiler.
 
   ```
-    gcc hexamips.c -o hexamips
+  gcc hexamips.c -o hexamips
   ```
 
 3. Run HexaMIPS with a MIPS instruction file.
 
   ```
-    ./hexamips input.hex
+  ./hexamips input.hex
   ```
 4. Explore the generated output and register values after execution.
 
@@ -42,7 +42,7 @@ To get started with HexaMIPS, follow these simple steps:
 
 Here's a quick example of using HexaMIPS:
 
-``` sh
+```
 $ ./hexamips example.hex
 
 Program
